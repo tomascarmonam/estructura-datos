@@ -1,0 +1,8 @@
+Modelo\ComprasDao.class
+Modelo\ProyectosVo.class
+Util\JDBCUtilities.class
+Modelo\LideresVo.class
+Modelo\LideresDao.class
+Controlador\ReportesController.class
+Modelo\ComprasVo.class
+Modelo\ProyectosDao.class
